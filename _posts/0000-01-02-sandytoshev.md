@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+🥇 - Mega turbo big CHANGE!!!
 Use the left arrow to go back!
